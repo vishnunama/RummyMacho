@@ -2,7 +2,7 @@ import React from 'react'
 
 function TermsofService() {
   return (
-    <div style={{ marginTop: "80px", marginBottom: "100px" }} className="refund-policy-container">
+    <div style={{marginTop:"200px", marginBottom:"200px"}}  className="refund-policy-container">
       <h2>Terms of Service</h2>
       <p>
         These Terms of Service govern your use of all products and services provided by Rummymacho, 

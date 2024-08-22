@@ -107,7 +107,7 @@ function Footer() {
                 <ul style={{}} className='footer-contant'>
                   {/* <li><Link to="/about">About Us</Link></li> */}
                   <li>
-                    <Link target='blank' onClick={() => navigate('/RefundPolicy')} to="/RefundPolicy"  style={{textDecoration:"none"}} >RefundPolicy</Link>
+                    <Link  onClick={() => navigate('/RefundPolicy')} to="/RefundPolicy"  style={{textDecoration:"none"}} >RefundPolicy</Link>
                     </li>
                    <li>
           <Link onClick={() => navigate('/FairPlayStandards')} to="/FairPlayStandards"  style={{textDecoration:"none"}}>

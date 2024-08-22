@@ -45,9 +45,11 @@ function Home() {
                     
 
           <div className="banner_text">
-            <h1 className="title">Online Casino</h1>
-            <h3>Genuine Money Transaction</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+            <h1  className="title">Online Rummy</h1>
+            <h3>Play and Earn Real Cash </h3>
+            <p>
+Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point Rummy, Deal Rummy, and Pool Rummy. Each variant offers unique gameplay for an immersive experience. Dive into excitement, strategy, and entertainment, and seize your chance to win big!
+</p>
             <div className="casino-btn">
               <a style={{textDecoration:"none"}} href="games.html" className="btn-4 yellow-btn">play now</a></div>
           </div>
@@ -112,7 +114,8 @@ function Home() {
                 <div className="col-lg-9 col-md-10 col-8">
                   <div className="control-text">
                     <h3>Payment Limitation</h3>
-                    <p>Lorem ipsum dolor sit amet, consecteturt, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. sum dolor sit amet.</p>
+                    <p>
+Payments are capped at $500 per transaction. For larger amounts, please contact support for alternative solutions or assistance.        </p>
                   </div>
                 </div>
               </div>
@@ -127,7 +130,7 @@ function Home() {
                 <div className="col-lg-9 col-md-10 col-8">
                   <div className="control-text">
                     <h3>Profit Limitation</h3>
-                    <p>Lorem ipsum dolor sit amet, consecteturt, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. sum dolor sit amet.</p>
+                    <p>Profit withdrawals are limited to $1,000 per month. For higher amounts, please contact support to discuss alternative options.</p>
                   </div>
                 </div>
               </div>
@@ -152,7 +155,7 @@ function Home() {
                 <div className="col-lg-9 col-md-10 col-8">
                   <div className="control-text">
                     <h3>Loss Limitation</h3>
-                    <p>Lorem ipsum dolor sit amet, consecteturt, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. sum dolor sit amet.</p>
+                    <p>Losses are capped at $500 per day. For further details or adjustments, please contact support for personalized assistance.</p>
                   </div>
                 </div>
               </div>
@@ -167,7 +170,7 @@ function Home() {
                 <div className="col-lg-9 col-md-10 col-8">
                   <div className="control-text">
                     <h3>Deposit Limit</h3>
-                    <p>Lorem ipsum dolor sit amet, consecteturt, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. sum dolor sit amet.</p>
+                    <p>Deposits are capped at $2,000 per transaction. For higher amounts or further assistance, please contact support for options.</p>
                   </div>
                 </div>
               </div>
@@ -196,7 +199,7 @@ function Home() {
                 <div className="col-lg-9 col-md-12 col-9">
                   <div className="start-text">
                     <h3>Download &amp; Signup</h3>
-                    <p>Lorem ipsum dolor sit ametiqua. sum dolor sit amet.</p>
+                    <p>Download now and sign up to start your exciting journey!</p>
                   </div>
                 </div>
               </div>
@@ -211,7 +214,7 @@ function Home() {
                 <div className="col-lg-9 col-md-12 col-9">
                   <div className="start-text">
                     <h3>Deposit Cash</h3>
-                    <p>Lorem ipsum dolor sit ametiqua. sum dolor sit amet.</p>
+                    <p>Deposit cash easily to fund your account and start playing.</p>
                   </div>
                 </div>
               </div>
@@ -226,7 +229,7 @@ function Home() {
                 <div className="col-lg-9 col-md-12 col-9">
                   <div className="start-text">
                     <h3>Play &amp; Enjoy</h3>
-                    <p>Lorem ipsum dolor sit ametiqua. sum dolor sit amet.</p>
+                    <p>Play and enjoy our games for endless fun and excitement.</p>
                   </div>
                 </div>
               </div>
@@ -242,7 +245,7 @@ function Home() {
       <div className="row justify-content-center text-center">
         <div className="col-lg-6">
           <div className="heading">
-            <h2>Related other games</h2>
+            <h2>Rummy Macho games</h2>
             <img src={headingbordereffect} className="img-fluid" alt="effect" />
           </div>
         </div>
@@ -598,12 +601,12 @@ function Home() {
           </div>
         </div>
       </div>
-      <div className="row justify-content-center text-center">
+      {/* <div className="row justify-content-center text-center">
         <div className="col-md-12">
           <div className="casino-btn start-btn">
             <a style={{textDecoration:"none"}} href="games.html" className="btn-4 yellow-btn">Browse All</a></div>
         </div>
-      </div>
+      </div> */}
     </div>
   </section>
   {/* Related other game End */}
@@ -626,9 +629,9 @@ function Home() {
         </div>
         <div className="col-md-6">
           <div className="spin-text">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis notrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
+            <p>Unlock free spins by completing specific in-game challenges or reaching certain milestones. Check the game’s promotions or rewards section to claim your spins and enhance your gaming experience.
             </p><br />
-            <p>velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupdatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste.</p>
+            <p>Earn free spins through promotional offers by making qualifying deposits or participating in special events. Follow the instructions provided to activate your spins and enjoy extra chances to win.</p>
             <div className="casino-btn">
               <a style={{textDecoration:"none"}} href="#" className="btn-4 yellow-btn">play now</a></div>
           </div>
@@ -641,7 +644,7 @@ function Home() {
       <div className="row justify-content-center text-center">
         <div className="col-lg-6">
           <div className="heading">
-            <h2>Casino Jackpots</h2>
+            <h2>Rummy Macho Game Jackpots</h2>
             <img src={headingbordereffect} className="img-fluid" alt="effect" />
           </div>
         </div>
@@ -858,13 +861,13 @@ function Home() {
             <div className="col-md-6">
               <div className="faq-inner">
                 <h3>01. How do I create Casine Account ?</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+                <p>To create a casino account, visit the site or app, click "Sign Up," enter your details, and verify your email. Follow any additional instructions to complete the registration process.</p>
               </div>
             </div>
             <div className="col-md-6">
               <div className="faq-inner f-padding">
                 <h3>02. Where can I Redeem My Earnings ?</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+                <p>You can redeem your earnings in the "Account" or "Wallet" section of the site or app. Navigate to the "Withdraw" or "Redeem" option, and follow the instructions for transferring funds.</p>
               </div>
             </div>
           </div>
@@ -878,13 +881,13 @@ function Home() {
             <div className="col-md-6">
               <div className="faq-inner">
                 <h3>03. How do I Start Playing ?</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim. Lorem ipsum dolor sit amet.</p>
+                <p>To start playing, log in to your account, browse the game selection, and choose a game. Click on it to load, follow any setup instructions, and start enjoying the gameplay.</p>
               </div>
             </div>
             <div className="col-md-6">
               <div className="faq-inner f-padding">
                 <h3>04. How do I Move Up a Level ?</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim. Lorem ipsum dolor sit amet.</p>
+                <p>To move up a level, earn experience points or complete specific in-game objectives. Check the game’s leveling system for requirements and achievements. Progress by playing regularly and fulfilling tasks.</p>
               </div>
             </div>
           </div>

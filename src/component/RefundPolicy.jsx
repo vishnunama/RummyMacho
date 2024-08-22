@@ -8,7 +8,7 @@ function RefundPolicy() {
   }, []);
 
   return (
-    <div style={{marginTop:"100px", marginBottom:"140px"}} className="refund-policy-container">
+    <div style={{marginTop:"200px", marginBottom:"200px"}} className="refund-policy-container">
       <h2>Refund Policy</h2>
       <p style={{color:"black"}}>At Rummymacho, we strive to address accidental or erroneous cash credits promptly. If you encounter such issues, you may request a refund within two weeks of the transaction. We will review your request and process the refund to the original financial source within two weeks if it's a valid case of error. Please note that all refund decisions are at the sole discretion of Rummymacho.</p>
       

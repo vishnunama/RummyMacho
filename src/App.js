@@ -12,6 +12,8 @@ import RefundPolicy from './component/RefundPolicy';
 import PrivacyPolicy from './component/PrivacyPolicy';
 import TermsofService from './component/TermsofService';
 import FairPlayStandards from './component/FairPlayStandards';
+import { ScrollToScroll } from './component/WindowToScroll';
+import DownloadButton from './component/DownloadButton';
 // import Footer from './Footer';  // Import your Footer component
 
 
@@ -20,6 +22,7 @@ function App() {
   return (
     <div>
       <Router>
+        <ScrollToScroll/>
               <Header/>
 
       <Routes>
@@ -39,6 +42,7 @@ function App() {
         {/* <Route path="*" element={<NotFound />} /> */}
       </Routes>
       <Footer />
+      <DownloadButton/>
     </Router>
     </div>
   );

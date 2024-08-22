@@ -3,7 +3,7 @@ import React from 'react';
 
 function PrivacyPolicy() {
   return (
-    <div style={{marginTop:"80px", marginBottom:"100px"}} className="refund-policy-container">
+    <div style={{marginTop:"200px", marginBottom:"200px"}}  className="refund-policy-container">
       <h2>Privacy Policy</h2>
       <p>Welcome to Rummymacho! Your privacy is critically important to us. This Privacy Policy outlines how Rummymacho (referred to as “Rummymacho,” “we,” “us,” or “our”) collects, uses, and manages your data. By agreeing to our Terms of Service and Privacy Policy during registration, you consent to the collection and use of your personal information as described below. Please read this policy carefully before using our services. If you prefer not to share mandatory personal information required for registration, we ask that you refrain from registering.</p>
       

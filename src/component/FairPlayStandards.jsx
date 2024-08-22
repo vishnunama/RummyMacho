@@ -3,7 +3,7 @@ import React from 'react';
 
 function FairPlayStandards() {
   return (
-    <div style={{marginTop:"80px", marginBottom:"100px"}} className="refund-policy-container">
+    <div style={{marginTop:"200px", marginBottom:"200px"}}  className="refund-policy-container">
       <h2>Fair Play Standards</h2>
       
       <h3>1.1 Anti-Cheating and Anti-Collusion</h3>
