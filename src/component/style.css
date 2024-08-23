@@ -1258,7 +1258,7 @@ nav.navbar .container {
 
 .port-text-btm {
     position: absolute;
-    top: 195px;
+    top: 100px;
     left: 50%;
     transform: translateX(-50%);
     width: 200px;
@@ -2866,7 +2866,7 @@ Author:         Ingenious_team
     }
 
     .port-text-btm {
-        top: 158px;
+        top: 100px;
     }
 
     .sub-heading h3 {

@@ -66,7 +66,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
           </div>
         </div>
         <div className="col-md-7 col-12 text-center counterinner">
-          <ul>
+          <ul >
             <li className="counter-text border-count">
               <h3 className="counter-after">₹</h3>
             </li>
@@ -88,6 +88,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
             <li className="counter-text border-count">
               <h3 className="counter counter-after">9</h3>
             </li>
+            
            
           </ul>
         </div>
@@ -268,7 +269,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
               <div className="row mx-0">
                 <div className="col-md-4">
                   <div className="port_img">
-                    <img src={relatedGame} className="img-fluid" alt />
+                    <img style={{borderRadius:"20px"}} src="poolrummy.jpeg" className="img-fluid" alt />
                     <div className="overlay1">
                       <div className="overlay-text">
                         <div className="port-text">
@@ -285,7 +286,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                 </div>
                 <div className="col-md-4">
                   <div className="port_img">
-                    <img src={relatedGame1} className="img-fluid" alt />
+                    <img style={{borderRadius:"20px"}} src= "dealrummy.jpeg" className="img-fluid" alt />
                     <div className="overlay1">
                       <div className="overlay-text">
                         <div className="port-text">
@@ -302,7 +303,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                 </div>
                 <div className="col-md-4">
                   <div className="port_img">
-                    <img src={relatedGame2} className="img-fluid" alt />
+                    <img style={{borderRadius:"20px"}}  src= "pointrummy.jpeg" className="img-fluid" alt />
                     <div className="overlay1">
                       <div className="overlay-text">
                         <div className="port-text">
