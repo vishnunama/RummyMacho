@@ -68,25 +68,25 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
         <div className="col-md-7 col-12 text-center counterinner">
           <ul>
             <li className="counter-text border-count">
-              <h3 className="counter-after">$</h3>
+              <h3 className="counter-after">₹</h3>
             </li>
             <li className="counter-text border-count">
               <h3 className="counter counter-after">1</h3>
             </li>
             <li className="counter-text border-count">
-              <h3 className="counter counter-after">2</h3>
-            </li>
-            <li className="counter-text border-count">
-              <h3 className="counter counter-after">3</h3>
-            </li>
-            <li className="counter-text border-count">
-              <h3 className="counter counter-after">4</h3>
-            </li>
-            <li className="counter-text border-count">
               <h3 className="counter counter-after">5</h3>
             </li>
             <li className="counter-text border-count">
-              <h3 className="counter counter-after">6</h3>
+              <h3 className="counter counter-after">9</h3>
+            </li>
+            <li className="counter-text border-count">
+              <h3 className="counter counter-after">9</h3>
+            </li>
+            <li className="counter-text border-count">
+              <h3 className="counter counter-after">9</h3>
+            </li>
+            <li className="counter-text border-count">
+              <h3 className="counter counter-after">9</h3>
             </li>
            
           </ul>
@@ -114,8 +114,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                 <div className="col-lg-9 col-md-10 col-8">
                   <div className="control-text">
                     <h3>Payment Limitation</h3>
-                    <p>
-Payments are capped at $500 per transaction. For larger amounts, please contact support for alternative solutions or assistance.        </p>
+                   
                   </div>
                 </div>
               </div>
@@ -130,7 +129,6 @@ Payments are capped at $500 per transaction. For larger amounts, please contact 
                 <div className="col-lg-9 col-md-10 col-8">
                   <div className="control-text">
                     <h3>Profit Limitation</h3>
-                    <p>Profit withdrawals are limited to $1,000 per month. For higher amounts, please contact support to discuss alternative options.</p>
                   </div>
                 </div>
               </div>
@@ -155,7 +153,6 @@ Payments are capped at $500 per transaction. For larger amounts, please contact 
                 <div className="col-lg-9 col-md-10 col-8">
                   <div className="control-text">
                     <h3>Loss Limitation</h3>
-                    <p>Losses are capped at $500 per day. For further details or adjustments, please contact support for personalized assistance.</p>
                   </div>
                 </div>
               </div>
@@ -170,7 +167,6 @@ Payments are capped at $500 per transaction. For larger amounts, please contact 
                 <div className="col-lg-9 col-md-10 col-8">
                   <div className="control-text">
                     <h3>Deposit Limit</h3>
-                    <p>Deposits are capped at $2,000 per transaction. For higher amounts or further assistance, please contact support for options.</p>
                   </div>
                 </div>
               </div>
@@ -659,15 +655,15 @@ Payments are capped at $500 per transaction. For larger amounts, please contact 
               <div className="row">
                 <div className="col-lg-5 col-5 col-md-6">
                   <div className="winner-name tun_border">
-                    <h5>01. Wellmax Sins</h5>
+                    <h5>01. Kushi</h5>
                   </div>
                 </div>
                 <div className="col-lg-4 col-2 col-md-2 text-center">
-                  <div className="toun_scroll_flag tun_border"><img src={country1} alt="scroll1" /></div>
+                  <div className="toun_scroll_flag tun_border"><img style={{width:"20px"}} src={country1} alt="scroll1" /></div>
                 </div>
                 <div className="col-lg-3 col-5 col-md-4 text-right">
                   <div className="winner-name tun_border">
-                    <p>$2565.25</p>
+                    <p>₹2565.25</p>
                   </div>
                 </div>
               </div>
@@ -677,15 +673,15 @@ Payments are capped at $500 per transaction. For larger amounts, please contact 
               <div className="row">
                 <div className="col-lg-5 col-5 col-md-6 col-md-4">
                   <div className="winner-name tun_border">
-                    <h5>02. Gozina Hezzez</h5>
+                    <h5>02. Lokesh</h5>
                   </div>
                 </div>
                 <div className="col-lg-4 col-2 col-md-2 text-center">
-                  <div className="toun_scroll_flag tun_border"><img src={taunamentborder1} alt="scroll2" /></div>
+                  <div className="toun_scroll_flag tun_border"><img style={{width:"20px"}} src={country1} alt="scroll2" /></div>
                 </div>
                 <div className="col-lg-3 col-5 col-md-4 text-right">
                   <div className="winner-name tun_border">
-                    <p>$1365.25</p>
+                    <p>₹1365.25</p>
                   </div>
                 </div>
               </div>
@@ -695,15 +691,15 @@ Payments are capped at $500 per transaction. For larger amounts, please contact 
               <div className="row">
                 <div className="col-lg-5 col-5 col-md-6">
                   <div className="winner-name tun_border">
-                    <h5>03. Alfred Alfie</h5>
+                    <h5>03. Virat</h5>
                   </div>
                 </div>
                 <div className="col-lg-4 col-2 col-md-2 text-center">
-                  <div className="toun_scroll_flag tun_border"><img src={country3} alt="scroll3" /></div>
+                  <div className="toun_scroll_flag tun_border"><img style={{width:"20px"}} src={country1} alt="scroll3" /></div>
                 </div>
                 <div className="col-lg-3 col-5 col-md-4 text-right">
                   <div className="winner-name tun_border">
-                    <p>$3310.25</p>
+                    <p>₹3310.25</p>
                   </div>
                 </div>
               </div>
@@ -713,15 +709,15 @@ Payments are capped at $500 per transaction. For larger amounts, please contact 
               <div className="row">
                 <div className="col-lg-5 col-5 col-md-6">
                   <div className="winner-name tun_border">
-                    <h5>04. jemmy doe</h5>
+                    <h5>04. Shivam</h5>
                   </div>
                 </div>
                 <div className="col-lg-4 col-2 col-md-2 text-center">
-                  <div className="toun_scroll_flag tun_border"><img src={country4} alt="scroll4" /></div>
+                  <div className="toun_scroll_flag tun_border"><img style={{width:"20px"}} src={country1} alt="scroll4" /></div>
                 </div>
                 <div className="col-lg-3 col-5 col-md-4 text-right">
                   <div className="winner-name tun_border">
-                    <p>$365.28</p>
+                    <p>₹365.28</p>
                   </div>
                 </div>
               </div>
@@ -731,15 +727,15 @@ Payments are capped at $500 per transaction. For larger amounts, please contact 
               <div className="row">
                 <div className="col-lg-5 col-5 col-md-6">
                   <div className="winner-name tun_border">
-                    <h5>05. ketie perry</h5>
+                    <h5>05. Vishnu</h5>
                   </div>
                 </div>
                 <div className="col-lg-4 col-2 col-md-2 text-center">
-                  <div className="toun_scroll_flag tun_border"><img src={country5} alt="scroll5" /></div>
+                  <div className="toun_scroll_flag tun_border"><img style={{width:"20px"}} src={country1} alt="scroll5" /></div>
                 </div>
                 <div className="col-lg-3 col-5 col-md-4 text-right">
                   <div className="winner-name tun_border">
-                    <p>$1027.22</p>
+                    <p>₹1027.22</p>
                   </div>
                 </div>
               </div>
@@ -759,7 +755,7 @@ Payments are capped at $500 per transaction. For larger amounts, please contact 
                     <img src={runningjackpot} className="img-fluid" alt />
                     <div className="run-txt">
                       <h4>Pool Rummy</h4>
-                      <p>$1,25,002</p>
+                      <p>₹1,25,002</p>
                       <div className="casino-btn">
                         <a style={{textDecoration:"none"}} href="" className="btn-4 yellow-btn">play</a></div>
                     </div>
@@ -768,7 +764,7 @@ Payments are capped at $500 per transaction. For larger amounts, please contact 
                     <img src="running-jackpot-2.jpg" className="img-fluid" alt />
                     <div className="run-txt">
                       <h4>Point Rummy</h4>
-                      <p>$50,030</p>
+                      <p>₹50,030</p>
                       <div className="casino-btn">
                         <a style={{textDecoration:"none"}} href="" className="btn-4 yellow-btn">play</a></div>
                     </div>
@@ -777,7 +773,7 @@ Payments are capped at $500 per transaction. For larger amounts, please contact 
                     <img src="/running-jackpot-3.jpg" className="img-fluid" alt />
                     <div className="run-txt">
                       <h4>Slots</h4>
-                      <p>$1,25,002</p>
+                      <p>₹1,25,002</p>
                       <div className="casino-btn">
                         <a href="#" className="btn-4 yellow-btn">play</a></div>
                     </div>
@@ -793,7 +789,7 @@ Payments are capped at $500 per transaction. For larger amounts, please contact 
                     <img src="upcomming-jackpot-1.jpg" className="img-fluid" alt />
                     <div className="run-txt">
                       <h4>Deal Rummy</h4>
-                      <p>$25,002</p>
+                      <p>₹25,002</p>
                       <div className="casino-btn">
                         <a style={{textDecoration:"none"}} href="#" className="btn-4 yellow-btn">play</a></div>
                     </div>
@@ -802,7 +798,7 @@ Payments are capped at $500 per transaction. For larger amounts, please contact 
                     <img src="upcomming-jackpot-2.jpg" className="img-fluid" alt />
                     <div className="run-txt">
                       <h4>Point Rummy</h4>
-                      <p>$15,002</p>
+                      <p>₹15,002</p>
                       <div className="casino-btn">
                         <a href="#" className="btn-4 yellow-btn">play</a></div>
                     </div>
@@ -811,7 +807,7 @@ Payments are capped at $500 per transaction. For larger amounts, please contact 
                     <img src="upcomming-jackpot-3.jpg" className="img-fluid" alt />
                     <div className="run-txt">
                       <h4>Slots</h4>
-                      <p>$25,010</p>
+                      <p>₹25,010</p>
                       <div className="casino-btn">
                         <a href="#" className="btn-4 yellow-btn">play</a></div>
                     </div>

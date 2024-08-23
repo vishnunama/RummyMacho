@@ -15,12 +15,11 @@ function Footer() {
             <div className="col-lg-5 col-md-4">
               <div className="contact-about">
                 <div className="heading">
-                  <h2>ABOUT Gambling</h2>
+                  <h2>Our All Games</h2>
                   <img src="heading-border-effect.png" className="img-fluid" alt="effect" />
                 </div>
                 <p className="mb30">
-                  Gambling is an exciting and dynamic activity where skill meets chance. Our platform offers a thrilling experience with a variety of games and tournaments designed for entertainment. Join us to explore the world of online gaming, where every moment is filled with excitement and opportunity.
-                </p>
+Delve into the exciting world of games, where luck meets skill in an immersive gaming experience. From classic favourites like Rummy games like Point Rummy, Deal Rummy, Pool Rummy with dynamic themes, our games offer thrilling opportunities to test your strategy and enjoy the rush of winning   </p>
               </div>
             </div>
             <div className="col-lg-3 col-md-4">
