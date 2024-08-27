@@ -303,7 +303,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                 </div>
                 <div className="col-md-4">
                   <div className="port_img">
-                    <img style={{borderRadius:"20px"}}  src= "pointrummy.jpeg" className="img-fluid" alt />
+                    <img style={{borderRadius:"20px"}}  src= "_1b8c9658-545f-4966-a4f4-a2f5f60e7eaf.jpeg" className="img-fluid" alt />
                     <div className="overlay1">
                       <div className="overlay-text">
                         <div className="port-text">

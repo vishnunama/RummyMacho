@@ -3686,6 +3686,7 @@ Author:         Ingenious_team
     }
 
     .foot-menu ul {
+        display: grid;
         padding-bottom: 18px;
     }
 
