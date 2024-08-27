@@ -79,7 +79,7 @@ Delve into the exciting world of games, where luck meets skill in an immersive g
                     <div className="sub-form">
                       <form>
                         <div className="form-group col-sm-12 ">
-                          <p className="form-control" style={{color:"Black",height:"50px", fontFamily:"-moz-initial",textDecoration:"none", fontSize:"17px",textAlign:"left"}} >support@Rummymacho.com</p>
+                          <p className="form-control" style={{paddingTop:"15px",color:"Black",height:"50px", fontFamily:"-moz-initial",textDecoration:"none", fontSize:"17px",textAlign:"left"}} >support@Rummymacho.com</p>
                           {/* <input type="text" className="form-control" name="email" placeholder="Enter Your Email" /> */}
                         </div>
                         <div className="casino-btn newsletter">
