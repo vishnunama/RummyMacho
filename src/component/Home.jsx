@@ -51,7 +51,7 @@ function Home() {
 Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point Rummy, Deal Rummy, and Pool Rummy. Each variant offers unique gameplay for an immersive experience. Dive into excitement, strategy, and entertainment, and seize your chance to win big!
 </p>
             <div className="casino-btn">
-              <a style={{textDecoration:"none"}} href="games.html" className="btn-4 yellow-btn">play now</a></div>
+              <a style={{textDecoration:"none"}} href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7" className="btn-4 yellow-btn">play now</a></div>
           </div>
         </div>
       </div>
@@ -274,7 +274,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <div className="overlay-text">
                         <div className="port-text">
                           <div className="casino-btn">
-                            <a style={{textDecoration:"none"}} href="" className="btn-4 yellow-btn">play now</a></div>
+                            <a style={{textDecoration:"none"}} href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7" className="btn-4 yellow-btn">play now</a></div>
                           <div className="port-text-btm">
                             <h3>Rummy Game</h3>
                             <p>Catagory: Pool Rummy</p>
@@ -291,7 +291,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <div className="overlay-text">
                         <div className="port-text">
                           <div className="casino-btn">
-                            <a style={{textDecoration:"none"}}  href="">play now</a></div>
+                            <a style={{textDecoration:"none"}} href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7">play now</a></div>
                           <div className="port-text-btm">
                             <h3>Rummy Game</h3>
                             <p>Catagory: Deal Rummy</p>
@@ -308,7 +308,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <div className="overlay-text">
                         <div className="port-text">
                           <div className="casino-btn">
-                            <a style={{textDecoration:"none"}}  href="">play now</a></div>
+                            <a style={{textDecoration:"none"}} href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7">play now</a></div>
                           <div className="port-text-btm">
                             <h3>Rummy Game</h3>
                             <p>Catagory: Point Rummy</p>
@@ -329,7 +329,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <div className="overlay-text">
                         <div className="port-text">
                           <div className="casino-btn">
-                            <a style={{textDecoration:"none"}}  href="#" className="btn-4 yellow-btn">play now</a></div>
+                            <a style={{textDecoration:"none"}} href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7" className="btn-4 yellow-btn">play now</a></div>
                           <div className="port-text-btm">
                             <h3>Free slots</h3>
                             <p>Catagory: slots</p>
@@ -346,7 +346,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <div className="overlay-text">
                         <div className="port-text">
                           <div className="casino-btn">
-                            <a href="#">play now</a></div>
+                            <a href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7">play now</a></div>
                           <div className="port-text-btm">
                             <h3>Free slots</h3>
                             <p>Catagory: slots</p>
@@ -363,7 +363,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <div className="overlay-text">
                         <div className="port-text">
                           <div className="casino-btn">
-                            <a href="#">play now</a></div>
+                            <a href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7">play now</a></div>
                           <div className="port-text-btm">
                             <h3>Free slots</h3>
                             <p>Catagory: slots</p>
@@ -384,7 +384,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <div className="overlay-text">
                         <div className="port-text">
                           <div className="casino-btn">
-                            <a href="#" className="btn-4 yellow-btn">play now</a></div>
+                            <a href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7" className="btn-4 yellow-btn">play now</a></div>
                           <div className="port-text-btm">
                             <h3>Rummy Game</h3>
                             <p>Pool Rummy</p>
@@ -401,7 +401,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <div className="overlay-text">
                         <div className="port-text">
                           <div className="casino-btn">
-                            <a href="#">play now</a></div>
+                            <a href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7">play now</a></div>
                           <div className="port-text-btm">
                             <h3>Free Roulette</h3>
                             <p>Catagory: Roulette</p>
@@ -418,7 +418,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <div className="overlay-text">
                         <div className="port-text">
                           <div className="casino-btn">
-                            <a href="#">play now</a></div>
+                            <a href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7">play now</a></div>
                           <div className="port-text-btm">
                             <h3>Free Roulette</h3>
                             <p>Catagory: Roulette</p>
@@ -439,7 +439,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <div className="overlay-text">
                         <div className="port-text">
                           <div className="casino-btn">
-                            <a href="#" className="btn-4 yellow-btn">play now</a></div>
+                            <a href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7" className="btn-4 yellow-btn">play now</a></div>
                           <div className="port-text-btm">
                             <h3>Free Black Jack</h3>
                             <p>Catagory: Black Jack</p>
@@ -456,7 +456,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <div className="overlay-text">
                         <div className="port-text">
                           <div className="casino-btn">
-                            <a href="#">play now</a></div>
+                            <a href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7">play now</a></div>
                           <div className="port-text-btm">
                             <h3>Free Black Jack</h3>
                             <p>Catagory: Black Jack</p>
@@ -473,7 +473,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <div className="overlay-text">
                         <div className="port-text">
                           <div className="casino-btn">
-                            <a href="#">play now</a></div>
+                            <a href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7">play now</a></div>
                           <div className="port-text-btm">
                             <h3>Free Black Jack</h3>
                             <p>Catagory: Black Jack</p>
@@ -494,7 +494,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <div className="overlay-text">
                         <div className="port-text">
                           <div className="casino-btn">
-                            <a href="#" className="btn-4 yellow-btn">play now</a></div>
+                            <a href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7" className="btn-4 yellow-btn">play now</a></div>
                           <div className="port-text-btm">
                             <h3>Free Poker</h3>
                             <p>Catagory: Poker</p>
@@ -511,7 +511,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <div className="overlay-text">
                         <div className="port-text">
                           <div className="casino-btn">
-                            <a href="#">play now</a></div>
+                            <a href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7">play now</a></div>
                           <div className="port-text-btm">
                             <h3>Free Poker</h3>
                             <p>Catagory: Poker</p>
@@ -528,7 +528,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <div className="overlay-text">
                         <div className="port-text">
                           <div className="casino-btn">
-                            <a href="#">play now</a></div>
+                            <a href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7">play now</a></div>
                           <div className="port-text-btm">
                             <h3>Free Poker</h3>
                             <p>Catagory: Poker</p>
@@ -549,7 +549,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <div className="overlay-text">
                         <div className="port-text">
                           <div className="casino-btn">
-                            <a href="#" className="btn-4 yellow-btn">play now</a></div>
+                            <a href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7" className="btn-4 yellow-btn">play now</a></div>
                           <div className="port-text-btm">
                             <h3>Free Poker</h3>
                             <p>Catagory: Poker</p>
@@ -566,7 +566,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <div className="overlay-text">
                         <div className="port-text">
                           <div className="casino-btn">
-                            <a href="#">play now</a></div>
+                            <a href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7">play now</a></div>
                           <div className="port-text-btm">
                             <h3>Free Black Jack</h3>
                             <p>Catagory: Black Jack</p>
@@ -583,7 +583,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <div className="overlay-text">
                         <div className="port-text">
                           <div className="casino-btn">
-                            <a href="#">play now</a></div>
+                            <a href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7">play now</a></div>
                           <div className="port-text-btm">
                             <h3>Free Roulette</h3>
                             <p>Catagory: Roulette</p>
@@ -630,7 +630,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
             </p><br />
             <p>Earn free spins through promotional offers by making qualifying deposits or participating in special events. Follow the instructions provided to activate your spins and enjoy extra chances to win.</p>
             <div className="casino-btn">
-              <a style={{textDecoration:"none"}} href="#" className="btn-4 yellow-btn">play now</a></div>
+              <a style={{textDecoration:"none"}} href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7" className="btn-4 yellow-btn">play now</a></div>
           </div>
         </div>
       </div>
@@ -758,7 +758,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <h4>Pool Rummy</h4>
                       <p>₹1,25,002</p>
                       <div className="casino-btn">
-                        <a style={{textDecoration:"none"}} href="" className="btn-4 yellow-btn">play</a></div>
+                        <a style={{textDecoration:"none"}} href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7" className="btn-4 yellow-btn">play</a></div>
                     </div>
                   </div>
                   <div className="running-img">
@@ -767,7 +767,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <h4>Point Rummy</h4>
                       <p>₹50,030</p>
                       <div className="casino-btn">
-                        <a style={{textDecoration:"none"}} href="" className="btn-4 yellow-btn">play</a></div>
+                        <a style={{textDecoration:"none"}} href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7" className="btn-4 yellow-btn">play</a></div>
                     </div>
                   </div>
                   {/* <div className="running-img">
@@ -792,7 +792,7 @@ Welcome to our premier online gaming platform! Enjoy RummyMacho, featuring Point
                       <h4>Deal Rummy</h4>
                       <p>₹25,002</p>
                       <div className="casino-btn">
-                        <a style={{textDecoration:"none"}} href="#" className="btn-4 yellow-btn">play</a></div>
+                        <a style={{textDecoration:"none"}} href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7" className="btn-4 yellow-btn">play</a></div>
                     </div>
                   </div>
                   {/* <div className="running-img">

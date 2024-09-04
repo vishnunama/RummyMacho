@@ -31,16 +31,16 @@ Delve into the exciting world of games, where luck meets skill in an immersive g
                 <div className="contact-app">
                   <ul>
                     <li>
-                      <a href="#">
+                      <a href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7">
                         <div className="icon-wrapper">
                           <FontAwesomeIcon icon={faApple} size="2x" />
                         </div>
                       </a>
                       <br />
-                      <span className="text">iOS</span>
+                      <span  className="text">iOS</span>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="https://drive.google.com/uc?export=download&id=1R7OBfAhXbRhT8_ZQrA8OHypcRrVlpQM7">
                         <div className="icon-wrapper">
                           <FontAwesomeIcon icon={faAndroid} size="2x" />
                         </div>
