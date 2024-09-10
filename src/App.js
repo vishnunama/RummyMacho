@@ -14,6 +14,8 @@ import TermsofService from './component/TermsofService';
 import FairPlayStandards from './component/FairPlayStandards';
 import { ScrollToScroll } from './component/WindowToScroll';
 import DownloadButton from './component/DownloadButton';
+import ContactUs from './component/ContactUs';
+import AboutUs from './component/AboutUs';
 // import Footer from './Footer';  // Import your Footer component
 
 
@@ -32,13 +34,12 @@ function App() {
         {/* <Route path="/games" element={<Games />} /> */}
         <Route path="/FairPlayStandards" element={<FairPlayStandards />} />
         <Route path="/PrivacyPolicy" element={<PrivacyPolicy />} />
-                <Route path="/TermsofService" element={<TermsofService />} />
-
-        
-
-        
-
+        <Route path="/TermsofService" element={<TermsofService />} />
+        <Route path="/ContactUs" element={<ContactUs />} />
         <Route path="/RefundPolicy" element={<RefundPolicy />} />
+        <Route path="/AboutUs" element={<AboutUs />} />
+
+        
         {/* <Route path="*" element={<NotFound />} /> */}
       </Routes>
       <Footer />

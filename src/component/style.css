@@ -2088,7 +2088,7 @@ nav.navbar .container {
     z-index: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, 0, 0.2);
     top: 0px;
 }
 
@@ -3920,7 +3920,7 @@ Author:         Ingenious_team
 }
 
 
-.btn-4in{
+/* .btn-4in{
     letter-spacing: 1px;
         line-height: 24px;
         color: #fefefe;
@@ -3939,7 +3939,7 @@ Author:         Ingenious_team
         text-shadow: 5px 4px 0px #efa500;
         background: linear-gradient(to bottom, #ffd679 30%, #f7ac03 70%);
         filter: drop-shadow(0 0px 20px rgba(101, 40, 193, 0.5));
-}
+} */
 
 @media (min-width: 766px) {
     .login_menu-1 {
@@ -4129,5 +4129,26 @@ text-transform: capitalize;
 @media (min-width: 766px) {
     .download-button-container {
         display: none;
+    }
+}
+
+
+.contact-info {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    /* Adjust gap between columns as needed */
+}
+
+.contact-item {
+    flex: 1 1 calc(50% - 20px);
+    /* 2 columns with a gap of 20px */
+    box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+    .contact-item {
+        flex: 1 1 100%;
+        /* Stacks items in a single column on smaller screens */
     }
 }

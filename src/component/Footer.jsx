@@ -120,11 +120,7 @@ Fair Play Standards
                 </ul>
               </div>
             </div>
-            <div className="col-md-12">
-              <div className="copy-right">
-                <h6>Copyright 2024. All rights reserved by DESIGNER</h6>
-              </div>
-            </div>
+           
           </div>
         </div>
       </section>
